@@ -1,0 +1,16 @@
+.idea
+.mypy_cache
+.nox
+.pytest_cache
+.env
+dist
+build
+htmlcov
+site
+__pycache__
+*.pyc
+*.egg-info
+.coverage
+.coverage.*
+*.sessions
+/src/telegram-dynamic-nickname.session
