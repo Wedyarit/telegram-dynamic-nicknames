@@ -18,6 +18,7 @@ Configure .env file by pasting API_ID and API_HASH.
 # ---------------
 # Telegram config
 # ---------------
+
 API_ID=PASTE_YOUR_APP_ID_HERE
 API_HASH=PASTE_YOUR_APP_HASH_HERE
 ```
@@ -145,4 +146,6 @@ sudo apt install python3.10
 ```
 
 <hr>
+
+
 Made by Wedyarit
