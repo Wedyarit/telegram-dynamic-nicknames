@@ -6,7 +6,7 @@ Script to generate dynamic Telegram nicknames
 
 ## Environment file
 
-First of all you have to gain API_ID and API_HASH api_hash from [Telegram](https://my.telegram.org), under API Development.
+First of all you have to gain API_ID and API_HASH from [Telegram](https://my.telegram.org), under API Development.
 
 Create a environment file based on sample
 ```bash
@@ -31,7 +31,7 @@ All nickname's configurations are stored in [config.py](./src/config.py).
 # Nickname config
 # ---------------
 
-# Time interval in seconds between changing nicknames (default: 120)
+# Time interval in seconds between changing nicknames (default: 60)
 change_interval = 60
 
 # List of nicknames that will change, where 'emoji_symbol' (see below) is a random emoji
