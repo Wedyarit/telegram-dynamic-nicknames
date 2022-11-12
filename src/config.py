@@ -2,7 +2,7 @@
 # Nickname config
 # ---------------
 
-# Time interval in seconds between changing nicknames (default: 120)
+# Time interval in seconds between changing nicknames (default: 60)
 change_interval = 60
 
 # List of nicknames that will change, where 'emoji_symbol' (see below) is a random emoji
