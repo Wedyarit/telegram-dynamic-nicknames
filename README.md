@@ -61,7 +61,7 @@ $ poetry install
 
 To launch the script:
 ```bash
-$ poetry run python -m src.app
+$ poetry run python src/app.py
 ```
 
 # About the project 

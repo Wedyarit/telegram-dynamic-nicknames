@@ -1,6 +1,6 @@
 
 import logger
-from src.emoji_parser import EmojiParser
+from emoji_parser import EmojiParser
 
 
 class NicknameGenerator:
